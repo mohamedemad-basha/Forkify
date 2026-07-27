@@ -280,6 +280,3 @@ https://github.com/mohamedemad-basha
 LinkedIn:
 https://www.linkedin.com/in/mohamed-basha-6239342a8
 
----
-It helps others discover the project and supports my work.
-````
