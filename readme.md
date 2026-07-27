@@ -1,4 +1,4 @@
-````markdown
+
 # 🍽️ Forkify
 
 <p align="center">
